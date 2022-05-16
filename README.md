@@ -1,1 +1,1 @@
-# Atividades-UC8-L-gica-de-Programa-o
+Atividades UC-8 de Lógica de Programação
